@@ -1,0 +1,28 @@
+#c
+{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+    color: violet;
+}
+#count
+{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+}
+#boxx
+{
+    min-height: 150px;
+    min-width: 400px;
+    padding: 10px;
+    font-size: 16px;
+    line-height: 1.25;
+    resize: none;
+    border: 1.6px solid;
+    box-shadow: inset;
+}
+button{
+    background-color: rgb(74, 234, 82);
+    color: white;
+    padding: 16px 32px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
